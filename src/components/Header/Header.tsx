@@ -11,7 +11,7 @@ export function Header() {
   const [openMobileMenu, setOpenMobileMenu] = useState(false);
 
   return (
-    <nav className="flex fixed top-0 left-0 z-20 flex-wrap items-center justify-between md:items-start  px-5 py-2 mx-auto md:py-2 md:px-20 bg-black w-full">
+    <nav className="flex fixed top-0 left-0 z-20 flex-wrap items-center justify-between md:items-start  px-5 py-2 mx-auto md:py-2 md:px-20 bg-black w-full ">
       <Link href="/" className="flex items-center">
         <Image
           src="/assets/logo.png"

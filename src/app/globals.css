@@ -47,3 +47,23 @@ body {
 .fondo {
   background-color: rgba(0, 0, 0, 0.6);
 }
+.texto {
+  font-weight: 100;
+}
+.title-servicios {
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 10px;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+}
+@media (min-width: 767px) {
+  .about {
+    background-attachment: fixed;
+    width: 100%;
+  }
+  .back-about {
+    width: 90%;
+    background-color: #fff;
+  }
+}
