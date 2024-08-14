@@ -1,0 +1,4 @@
+.bg-img {
+  z-index: -5;
+  object-fit: cover;
+}
