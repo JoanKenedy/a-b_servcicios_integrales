@@ -8,8 +8,9 @@ const popinsFont = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Grupo B&R | Servicos Integrales ",
-  description: "Follow me for more!",
+  title: "Grupo B&R ",
+  description:
+    "En Grupo B&R , nos apasiona ayudar a las personas a encontrar su hogar perfecto. Con años de experiencia en el mercado inmobiliario, nuestro equipo de expertos se compromete a brindar un servicio personalizado y profesional para satisfacer las necesidades de nuestros clientes.",
 };
 
 export default function RootLayout({
