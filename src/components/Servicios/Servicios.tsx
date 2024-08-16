@@ -75,8 +75,8 @@ export function Servicios() {
       </div>
       <div
         className={`${
-          openModal ? "left-0" : "-left-full "
-        } fondo-services w-full fixed  h-full left-0 top-0 duration-700 flex justify-center items-center z-20`}
+          openModal ? "left-0" : " "
+        } fondo-services w-full fixed  h-full -left-full top-0 duration-700 flex justify-center items-center z-20`}
       >
         <MdClose
           className="text-white  text-4xl absolute top-5 right-4"
