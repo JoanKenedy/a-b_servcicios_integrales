@@ -12,8 +12,9 @@ export function Testimonials() {
 
         <div className="self-center">
           <p className="text-primaryDark md:text-lg ">
-            Todo lo que necesitas para aceptar pagos con tarjeta y hacer crecer
-            tu negocio en cualquier parte del planeta.
+            En Grupo B&R, nos enorgullecemos de ser más que una inmobiliaria,
+            somos un aliado para nuestros clientes en el camino hacia encontrar
+            su hogar perfecto.
           </p>
         </div>
       </div>

@@ -43,7 +43,9 @@ export function Footer() {
       <div className="border-[#3F3E45] border-[1px] my-7" />
 
       <div className="items-center justify-between md:flex md:w-10/12 md:m-auto">
-        <div className="my-3">2024 B&R. Todos los derechos reservados.</div>
+        <div className="my-3 text-sm">
+          2024 Grupo B&R Servicios Integrales. Todos los derechos reservados.
+        </div>
         <div className="flex gap-5">
           <RiInstagramLine />
           <RiFacebookCircleFill />
