@@ -75,8 +75,8 @@ export function Servicios() {
       </div>
       <div
         className={`${
-          openModal ? "translate-y-full" : "transalte-y-0"
-        } fondo-services w-full fixed h-full left-0 top-0 duration-500 flex justify-center items-center z-20`}
+          openModal ? "left-0" : "-left-full "
+        } fondo-services w-full fixed  h-full left-0 top-0 duration-700 flex justify-center items-center z-20`}
       >
         <MdClose
           className="text-white  text-4xl absolute top-5 right-4"
@@ -84,8 +84,8 @@ export function Servicios() {
         />
         <div
           className={`${
-            openModal ? "scale-0" : "scale-100"
-          }  bg-white w-10/12 h-4/6 md:w-5/12 md:h-3/5 duration-1000`}
+            openModal ? "scale-100 duration-1000" : "scale-0 duration-500"
+          }  bg-white  w-10/12 h-4/6 md:w-5/12 md:h-3/5 `}
         >
           <h2>El modal</h2>
         </div>
