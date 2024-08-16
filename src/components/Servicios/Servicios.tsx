@@ -87,7 +87,7 @@ export function Servicios() {
         <div
           className={`${
             openModal ? "scale-100 duration-1000" : "scale-0 duration-500"
-          }  bg-white  w-11/12 h-3/6 md:w-5/12 md:h-2/5  flex justify-center items-center flex-col px-5`}
+          }  bg-white  w-11/12 h-4/6 md:w-6/12 md:h-3/5  flex justify-center items-center flex-col px-5`}
         >
           <h2 className="text-black text-center text-lg  font-semibold">
             Regularización de inmuebles
@@ -109,7 +109,17 @@ export function Servicios() {
               Constitución y extinción de fideicomisos inmobiliarios.
             </li>
             <li className="text-black text-sm">Subdivisión de inmuebles.</li>
+            <li className="text-black text-sm">
+              Traspasos y Cesión de Derechos de Propiedad.
+            </li>
           </ul>
+          <a
+            href="https://wa.me/525540565954"
+            target="_blank"
+            className="bg-black px-6 py-1"
+          >
+            Contacto
+          </a>
         </div>
       </div>
       <div
@@ -138,6 +148,13 @@ export function Servicios() {
               Escrituración de propiedades ante notario público.
             </li>
           </ul>
+          <a
+            href="https://wa.me/525540565954"
+            target="_blank"
+            className="bg-black px-6 py-1"
+          >
+            Contacto
+          </a>
         </div>
       </div>
       <div
@@ -188,6 +205,13 @@ export function Servicios() {
               en adeudo el inmueble.{" "}
             </li>
           </ul>
+          <a
+            href="https://wa.me/525540565954"
+            target="_blank"
+            className="bg-black px-6 py-1"
+          >
+            Contacto
+          </a>
         </div>
       </div>
     </div>

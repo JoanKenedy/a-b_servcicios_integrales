@@ -7,6 +7,7 @@ import { Testimonials } from "@/components/Testimonials";
 import { Proyecto } from "@/components/Proyecto";
 import { Footer } from "@/components/Footer";
 import { Preguntas } from "@/components/Preguntas";
+import { Button } from "@/components/Button";
 
 export default function Home() {
   return (
@@ -19,6 +20,7 @@ export default function Home() {
       <Testimonials />
       <Preguntas />
       <Proyecto />
+      <Button />
       <Footer />
     </>
   );

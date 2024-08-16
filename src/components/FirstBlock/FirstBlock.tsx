@@ -34,7 +34,8 @@ export function FirstBlock() {
             ¡Bienvenido , estamos para ayudarte!
           </h2>
           <a
-            href=""
+            href="https://wa.me/525540565954"
+            target="_blank"
             className="bg-white px-2 py-1 block mt-4 mb-4 w-40 text-center ml-auto mr-auto text-black md:w-48 md:text-xl md:px-2 md:mt-5 "
           >
             Contacto

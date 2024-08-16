@@ -24,7 +24,8 @@ export function About() {
           </p>
 
           <a
-            href=""
+            href="https://wa.me/525540565954"
+            target="_blank"
             className="bg-black block text-sm text-center m-auto w-44 py-2 px-2 mt-4 font-thin md:w-48 md:text-base"
           >
             Más información

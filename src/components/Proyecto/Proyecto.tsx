@@ -31,7 +31,7 @@ export function Proyecto() {
         <div className="item-proyecto ">
           <div>
             <h2 className="text-black text-2xl font-semibold py-2 pl-1 md:py-0 md:mb-2 md:text-4xl md:ml-10">
-              Forulario de contacto
+              Formulario de contacto
             </h2>
             <form
               method="POST"
