@@ -35,7 +35,7 @@ export function Slide() {
             height={50}
             className="w-auto h-auto"
           />
-          <div className="my-5">{testimonial}</div>
+          <div className="my-5 text-sm">{testimonial}</div>
           <div className="flex">
             <Image
               src={image}
@@ -45,8 +45,8 @@ export function Slide() {
               className="mr-5"
             />
             <div>
-              <h4 className="text-center">{name}</h4>
-              <p className="text-primaryDark">{work}</p>
+              <h4 className="text-center text-sm">{name}</h4>
+              <p className="text-primaryDark text-xs">{work}</p>
             </div>
           </div>
         </SwiperSlide>
