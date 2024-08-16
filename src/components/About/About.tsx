@@ -16,8 +16,13 @@ export function About() {
             hogar perfecto. Con años de experiencia en el mercado inmobiliario,
             nuestro equipo de expertos se compromete a brindar un servicio
             personalizado y profesional para satisfacer las necesidades de
-            nuestros clientes.
+            nuestros clientes. Nuestra misión es conectar a las personas con los
+            espacios que necesitan para vivir, trabajar y prosperar. Nos
+            enfocamos en construir relaciones duraderas con nuestros clientes,
+            escuchando sus necesidades y proporcionando soluciones innovadoras y
+            efectivas.
           </p>
+
           <a
             href=""
             className="bg-black block text-sm text-center m-auto w-44 py-2 px-2 mt-4 font-thin md:w-48 md:text-base"

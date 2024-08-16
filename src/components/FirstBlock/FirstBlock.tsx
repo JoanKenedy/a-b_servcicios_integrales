@@ -14,7 +14,7 @@ export function FirstBlock() {
           backgroundRepeat: "no-repeat",
           backgroundAttachment: "fixed",
           backgroundSize: "cover",
-          height: "90vh",
+          height: "85vh",
           width: "90vw",
           padding: " 20px ",
           margin: "30px auto 0 auto",

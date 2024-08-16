@@ -28,8 +28,8 @@ export function Header() {
 
       <div
         className={`${
-          openMobileMenu ? "opacity-1" : "opacity-0 md:opacity-100"
-        } w-full md:w-max h-screen  absolute md:relative z-10 md:z-auto top-0 md:top-auto left-0 md:left-auto duration-700  bg-black md:h-0 `}
+          openMobileMenu ? "block" : "hidden"
+        }  bg-black  w-full h-full fixed  md:w-max   md:relative z-10 md:z-auto top-0 md:top-auto left-0 md:left-auto duration-700 md:h-0 md:block `}
       >
         <MdOutlineClose
           className="absolute top-2 right-5 text-3xl md:hidden"
