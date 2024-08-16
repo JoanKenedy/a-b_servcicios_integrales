@@ -4,7 +4,7 @@ import { IoIosMail } from "react-icons/io";
 
 export function Proyecto() {
   return (
-    <div className="bg-white  py-10 md:py-20">
+    <div className="bg-white  py-10 md:py-20" id="contacto">
       <div className="cotainer-proyecto md:grid md:grid-cols-2 w-10/12  m-auto md:m-auto md:gap-10 md:px-10">
         <div className="item-proyecto flex flex-col gap-2 ">
           <h2 className="text-black  font-semibold text-2xl md:text-4xl">
@@ -31,7 +31,7 @@ export function Proyecto() {
         <div className="item-proyecto ">
           <div>
             <h2 className="text-black text-2xl font-semibold py-2 pl-1 md:py-0 md:mb-2 md:text-4xl md:ml-10">
-              Contact form
+              Forulario de contacto
             </h2>
             <form
               method="POST"

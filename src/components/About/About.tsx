@@ -5,7 +5,7 @@ import Image from "next/image";
 
 export function About() {
   return (
-    <div className="relative   pt-5  bg-white md:py-0 about">
+    <div className="relative   pt-5  bg-white md:py-0 about" id="about">
       <div className=" md:grid md:grid-cols-2  md:place-items-center m-auto back-about md:py-0 ">
         <div className="px-5  ">
           <h2 className="text-black font-semibold text-2xl text-center md:text-4xl">

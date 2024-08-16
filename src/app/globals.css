@@ -57,6 +57,9 @@ body {
 .btn-efect:hover {
   box-shadow: 5px 5px 54px white;
 }
+.tamaño {
+  font-size: 20px;
+}
 
 @media (min-width: 767px) {
   .about {

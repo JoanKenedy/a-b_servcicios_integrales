@@ -6,7 +6,7 @@ import { MdClose } from "react-icons/md";
 export function Servicios() {
   const [openModal, setOpenModal] = useState(false);
   return (
-    <div className="bg-white relative md:pb-8 ">
+    <div className="bg-white relative md:pb-8 " id="servicios">
       <h2 className="text-black text-center text-2xl font-semibold my-2 md:text-4xl">
         Servicios
       </h2>

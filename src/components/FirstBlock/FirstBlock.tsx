@@ -5,7 +5,7 @@ import Image from "next/image";
 
 export function FirstBlock() {
   return (
-    <div className="relative  bg-black">
+    <div className="relative  bg-black" id="inicio">
       <div
         className="hidden overflow-hidden md:flex justify-center w-full items-center "
         style={{
